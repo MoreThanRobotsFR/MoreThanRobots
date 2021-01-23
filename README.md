@@ -12,7 +12,7 @@
 
 
 # MoreThanRobots
-do not do this
+Check the english [YOUTUBE(https://www.youtube.com/channel/UC0gk0hdr1J1DwsJI9lflnPQ)] channel.
 
 
 
