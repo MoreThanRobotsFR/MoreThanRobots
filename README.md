@@ -9,7 +9,7 @@
 </p>
 <!-- markdownlint-enable MD033 -->
 
-<body style="background-color:#66B5F3;">
+<body style="background-color:#AFFEFE;">
 </body>
 
 # MoreThanRobots
