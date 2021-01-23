@@ -2,10 +2,10 @@
 <!-- markdownlint-disable MD033 -->
 <p align="center">
     <a href="MoreThanRobotsFR.github.io">
-        <img src="https://drive.google.com/file/d/1f8aMxoVudJrnVBMTjcmwBVgMUWHU5tT0/view?usp=sharing" width="150" height="260" alt="MTR">
+        <img src="https://raw.githubusercontent.com/MoreThanRobotsFR/MTRIndex/main/ImageIndex/Orichalque%20F.png?token=AJH4RGMVOZLAQBB4RCD6OZDABREGK" width="150" height="260" alt="MTR">
     </a>
     <br>
-    <strong>Network-wide ad blocking via your own Linux hardware</strong>
+    <strong>hardware</strong>
 </p>
 <!-- markdownlint-enable MD033 -->
 
