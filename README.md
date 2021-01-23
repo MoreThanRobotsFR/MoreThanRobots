@@ -18,7 +18,9 @@
 * C/C++
 * Python
 
-## Hardward
-* Arduino
+# Hardward
+* Arduino Uno
+* Arduino Mega
+* Arduino Nano
 * Raspberry Pi
 * Raspberry Pi Pico
