@@ -14,7 +14,3 @@
 # MoreThanRobots
 * Check the english [YOUTUBE](https://www.youtube.com/channel/UC0gk0hdr1J1DwsJI9lflnPQ) channel.
 * La chaîne [YOUTUBE](https://www.youtube.com/channel/UC-wviZj4bWYMKWNP7vLX6Uw) en français.
-
-
-
-THIS IN DANGEROUS THINGS
