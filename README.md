@@ -2,7 +2,7 @@
 <!-- markdownlint-disable MD033 -->
 <p align="center">
     <a href="MoreThanRobotsFR.github.io">
-        <img src="https://raw.githubusercontent.com/MoreThanRobotsFR/MTRIndex/main/ImageIndex/Orichalque%20F.png?token=AJH4RGMVOZLAQBB4RCD6OZDABREGK" width="200" height="200" alt="MTR">
+        <img src="https://github.com/MoreThanRobotsFR/MTRIndex/blob/main/ImageIndex/Orichalque%20F.png?raw=true" width="200" height="200" alt="MTR">
     </a>
     <br>
     <strong>Coding, Hardware and fun !</strong>
