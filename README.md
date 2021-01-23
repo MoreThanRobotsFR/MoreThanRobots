@@ -1,7 +1,7 @@
 <!-- markdownlint-configure-file { "MD004": { "style": "consistent" } } -->
 <!-- markdownlint-disable MD033 -->
 <p align="center">
-    <a href="https://MoreThanRobotsFR.github.io">
+    <a href="https://MoreThanRobots.github.io">
         <img src="https://github.com/MoreThanRobotsFR/MTRIndex/blob/main/ImageIndex/Orichalque%20F.png?raw=true" width="200" height="200" alt="MTR">
     </a>
     <br>
