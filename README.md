@@ -12,7 +12,7 @@
 
 
 # MoreThanRobots
-Check the english [YOUTUBE](https://www.youtube.com/channel/UC0gk0hdr1J1DwsJI9lflnPQ) channel.
+Check the english [YOUTUBE EN](https://www.youtube.com/channel/UC0gk0hdr1J1DwsJI9lflnPQ) channel.
 
 
 
