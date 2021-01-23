@@ -14,7 +14,6 @@
 
 # MoreThanRobots
 * Check the english [YOUTUBE-EN](https://www.youtube.com/channel/UC0gk0hdr1J1DwsJI9lflnPQ) channel.
-* Check the english [YOUTUBE-EN](<a href="https://morethanrobotsfr.github.io/MoreThanRobots/"></a>)
 * La chaîne [YOUTUBE-FR](https://www.youtube.com/channel/UC-wviZj4bWYMKWNP7vLX6Uw) en français.
 
 # Coding
