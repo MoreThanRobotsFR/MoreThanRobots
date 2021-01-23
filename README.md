@@ -10,7 +10,6 @@
 <!-- markdownlint-enable MD033 -->
 
 
-
 # MoreThanRobots
 * Check the english [YOUTUBE-EN](https://www.youtube.com/channel/UC0gk0hdr1J1DwsJI9lflnPQ) channel.
 * La chaîne [YOUTUBE-FR](https://www.youtube.com/channel/UC-wviZj4bWYMKWNP7vLX6Uw) en français.
@@ -19,7 +18,7 @@
 * C/C++
 * Python
 
-# Hardward
+## Hardward
 * Arduino
 * Raspberry Pi
 * Raspberry Pi Pico
