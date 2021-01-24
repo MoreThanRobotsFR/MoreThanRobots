@@ -19,6 +19,7 @@
 # Coding
 * C/C++
 * Python
+* MicroPython
 
 # Hardward
 * Arduino Uno
