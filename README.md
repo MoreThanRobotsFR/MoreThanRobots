@@ -26,3 +26,4 @@
 * Arduino Nano
 * Raspberry Pi
 * Raspberry Pi Pico
+* NodeMCU ESP8266
