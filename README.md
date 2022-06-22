@@ -20,6 +20,7 @@
 * C/C++
 * Python
 * MicroPython
+* CircuitPython 
 
 # Hardward
 * Arduino Uno
