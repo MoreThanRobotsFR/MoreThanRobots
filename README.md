@@ -2,7 +2,7 @@
 <!-- markdownlint-disable MD033 -->
 <p align="center">
     <a href="https://morethanrobotsfr.github.io/MoreThanRobots/">
-        <img src="https://github.com/MoreThanRobotsFR/MTRIndex/blob/main/ImageIndex/Orichalque%20F.png?raw=true" width="200" height="200" alt="MTR">
+        <img src="https://github.com/MoreThanRobotsFR/MTRIndex/blob/main/ImageIndex/MTR.png?raw=true" width="200" height="200" alt="MTR">
     </a>
     <br>
     <strong>Coding, Hardware and fun !</strong>
@@ -13,8 +13,7 @@
 </body>
 
 # MoreThanRobots
-* Check the english [YOUTUBE-EN](https://www.youtube.com/channel/UC0gk0hdr1J1DwsJI9lflnPQ) channel.
-* La chaîne [YOUTUBE-FR](https://www.youtube.com/channel/UC-wviZj4bWYMKWNP7vLX6Uw) en français.
+* Check the [YOUTUBE-EN-FR](https://www.youtube.com/@morethanrobots) channel.
 
 # Coding
 * C/C++
@@ -23,9 +22,15 @@
 * CircuitPython 
 
 # Hardward
-* Arduino Uno
-* Arduino Mega
-* Arduino Nano
-* Raspberry Pi
-* Raspberry Pi Pico
-* NodeMCU ESP8266
+* Arduino Uno / Mega / Nano
+* Raspberry Pi / Pico / RP2040
+* NodeMCU ESP8266 / ESP32
+
+# Schematic
+* Kicad
+* Altium designer
+
+# Last Project
+* [MTR Reflow Plate](https://github.com/MoreThanRobotsFR/MTR_Reflow_Plate)
+* [MTR Tiny MD](https://github.com/MoreThanRobotsFR/MTR_Tiny_MD)
+* [MTR Multisensor](https://github.com/MoreThanRobotsFR/MTR_C3_TempHum)
